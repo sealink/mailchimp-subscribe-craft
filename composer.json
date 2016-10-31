@@ -1,0 +1,17 @@
+{
+    "name": "aelvan/mailchimp-subscribe-craft",
+    "description": "Mailchimp Subscribe Plugin for Craft CMS",
+    "authors": [
+        {
+            "name": "André Elvan",
+            "url": "http://www.andreelvan.net"
+        }
+    ],
+    "type": "craft-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "mcsubscribe"
+    }
+}
